@@ -1,0 +1,5 @@
+printy==2.2.0
+pycryptodome==3.14.1
+pyfiglet==0.8.post1
+pyjks==20.0.0
+termcolor==1.1.0
