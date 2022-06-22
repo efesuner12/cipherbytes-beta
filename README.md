@@ -1,2 +1,2 @@
 # cipherbytes-beta
-A multi-purpose cryptography tool.
+A multi-purpose cryptography tool for Linux.
